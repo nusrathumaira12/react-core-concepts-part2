@@ -1,6 +1,7 @@
 
 import Counter from './counter';
 import Batsman from './batsman';
+import Users from './users';
 import './App.css'
 
 
@@ -25,6 +26,7 @@ const handleAdd5 = (num) => {
 
       <h3>Vite + React</h3>
 
+<Users></Users>
       <Batsman></Batsman>
       <Counter></Counter>
 
